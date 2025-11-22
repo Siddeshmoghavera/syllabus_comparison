@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: syllabus_comparison
+Version: 0.2.0
+Summary: A package for comparing syllabus topics using NLP.
+Author-email: Dhruthi V H <dhruthivenkateshheerguppe@gmail.com>
+Description-Content-Type: text/markdown
+Requires-Dist: sentence-transformers
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: pandas

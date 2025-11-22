@@ -1,0 +1,12 @@
+pyproject.toml
+syllabus_comparison/__init__.py
+syllabus_comparison/compare.py
+syllabus_comparison/extract_topics.py
+syllabus_comparison/model.py
+syllabus_comparison/report.py
+syllabus_comparison/similarity.py
+syllabus_comparison.egg-info/PKG-INFO
+syllabus_comparison.egg-info/SOURCES.txt
+syllabus_comparison.egg-info/dependency_links.txt
+syllabus_comparison.egg-info/requires.txt
+syllabus_comparison.egg-info/top_level.txt
